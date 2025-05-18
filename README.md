@@ -27,8 +27,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 서버 실행
-uvicorn app_img:app --reload --port 9000
+uvicorn app_img:app --reload --port 9000 '''
 
-<img width="708" alt="image" src="https://github.com/user-attachments/assets/0e974483-26d4-4066-bdf8-5b7358541898" />
-<img width="621" alt="image" src="https://github.com/user-attachments/assets/4e9cbf73-ff87-45bb-8728-f3d0c241f5ed" />
 
