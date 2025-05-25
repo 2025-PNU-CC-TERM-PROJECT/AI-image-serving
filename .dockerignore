@@ -1,0 +1,12 @@
+__pycache__/
+*.log
+*.ipynb
+.git
+.gitignore
+.idea/
+.vscode/
+.env
+*.jpg
+*.png
+Dockerfile
+*.md
